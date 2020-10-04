@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World !!!</title>
+    <link>https://arujit.github.io/</link>
+    <description>Recent content on Hello World !!!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arujit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genesis</title>
+      <link>https://arujit.github.io/random/genesis/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arujit.github.io/random/genesis/</guid>
+      <description>Frank asks, “What’s a Philistine?” Dad tells him, “It’s someone who doesn’t like books or interesting movies.”</description>
+    </item>
+    
+    <item>
+      <title>Genesis</title>
+      <link>https://arujit.github.io/tool/genesis/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arujit.github.io/tool/genesis/</guid>
+      <description>Because every craftsman starts his of her journey with a basic set of good quality tools.</description>
+    </item>
+    
+    <item>
+      <title>Genesis</title>
+      <link>https://arujit.github.io/posts/2020/10/genesis/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arujit.github.io/posts/2020/10/genesis/</guid>
+      <description>Tech blogs, the goods, the bads and the uglies !</description>
+    </item>
+    
+    <item>
+      <title>Genesis</title>
+      <link>https://arujit.github.io/til/genesis/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arujit.github.io/til/genesis/</guid>
+      <description>Kind of a personal journal of all the little things that I came across on the interwebs.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://arujit.github.io/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arujit.github.io/me/</guid>
+      <description>Likes coffee darker than his soul.
+Movies, Anime &amp;amp; Books are his Opium, Morphine &amp;amp; Ecstasy - in that order.
+Spends his days at Gojek building some streaming pipelines.
+Ping here to have a chat:
+ twitter: @james_bondu email: arujit1997@gmail.com  </description>
+    </item>
+    
+  </channel>
+</rss>
